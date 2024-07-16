@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66951a46d28e94d70ceb0be2"
+  },
+  "nama": "koran olahraga",
+  "deskripsi": "update olahraga terkini",
+  "harga": 5000
+},
+{
+  "_id": {
+    "$oid": "66951a46d28e94d70ceb0be3"
+  },
+  "nama": "koran selebriti",
+  "deskripsi": "berita aktor/aktris",
+  "harga": 5000
+},
+{
+  "_id": {
+    "$oid": "66951a46d28e94d70ceb0be4"
+  },
+  "nama": "koran politisi",
+  "deskripsi": "tentang pemerintah",
+  "harga": 5000
+},
+{
+  "_id": {
+    "$oid": "66951a46d28e94d70ceb0be5"
+  },
+  "nama": "koran pendidikan",
+  "deskripsi": "pelajar terkini",
+  "harga": 5000
+}]
